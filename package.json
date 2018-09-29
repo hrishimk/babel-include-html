@@ -1,7 +1,7 @@
 {
-  "name": "babel-include-scss",
+  "name": "babel-include-html",
   "version": "0.1.0",
-  "description": "Include scss files as string providing the path to .scss file",
+  "description": "Babel plugin to include HTML files as string",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
