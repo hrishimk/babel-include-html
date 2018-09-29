@@ -1,0 +1,1 @@
+let a = include_html('./test.html');
