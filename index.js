@@ -15,7 +15,8 @@ module.exports = function MyPlugin(ref) {
                         let content = minify(html, {
                             removeAttributeQuotes: true,
                             collapseWhitespace: true,
-                            removeComments: true
+                            removeComments: true,
+                            minifyCSS: true
                         });
                         path.replaceWith(t.stringLiteral(content));
                     }

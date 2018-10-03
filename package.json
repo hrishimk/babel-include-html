@@ -1,6 +1,6 @@
 {
   "name": "babel-include-html",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Babel plugin to include HTML files as string",
   "main": "index.js",
   "scripts": {
